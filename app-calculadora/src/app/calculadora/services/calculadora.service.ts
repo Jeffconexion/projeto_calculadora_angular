@@ -6,25 +6,26 @@ import { Injectable } from '@angular/core';
 export class CalculadoraService {
   constructor() {}
 
-  private readonly SOMA: string = '+';
-  private readonly SUBTRACAO: string = '-';
-  private readonly DIVISAO: string = '/';
-  private readonly MULTIPLICACAO: string = '*';
+  static readonly SOMA: string = '+';
+  static readonly SUBTRACAO: string = '-';
+  static readonly DIVISAO: string = '/';
+  static readonly MULTIPLICACAO: string = '*';
+
 
   calcular(num1: number, num2: number, operacao: string): number {
     let resultado: number;
 
     switch (operacao) {
-      case this.SOMA:
+      case CalculadoraService.SOMA:
         resultado = num1 + num2;
         break;
-      case this.SUBTRACAO:
+      case CalculadoraService.SUBTRACAO:
         resultado = num1 - num2;
         break;
-      case this.DIVISAO:
+      case CalculadoraService.DIVISAO:
         resultado = num1 / num2;
         break;
-      case this.MULTIPLICACAO:
+      case CalculadoraService.MULTIPLICACAO:
         resultado = num1 * num2;
         break;
       default:
