@@ -6,7 +6,6 @@
 </p>
 
 ### Camadas ###
-
 * 1 - Modulos, componentes e serviços.
 * 2 - Teste de unidade.
 * 3 - Documentar o código.
@@ -15,12 +14,9 @@
 
 
 ### Projeto ###
-
 <p> 
 Colocando em prática o conceito teórico, construíndo uma calculadora.
 </p> 
-
-
 
 <p align="center">
   <img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" />
