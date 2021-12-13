@@ -21,8 +21,8 @@ Colocando em prática o conceito teórico, construíndo uma calculadora.
 </p> 
 
 
-<!-- 
+
 <p align="center">
-  <img src="https://github.com/Jeffconexion/App_modelo_DDD/blob/main/Modelo/DDD.gif" />
+  <img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" />
 </p>
--->
+
