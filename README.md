@@ -12,7 +12,6 @@
 * 3 - Documentar o código.
 * 4 - Operadores.
 * 5 - Injeção de dependências.
-* 6 - Integrar o Angular com frameworks externos.
 
 
 ### Projeto ###
