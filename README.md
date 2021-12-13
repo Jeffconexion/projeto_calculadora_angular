@@ -1,4 +1,4 @@
-# Projeto número 2 - Calculadora
+# Projeto Calculadora
 
 ### Sinopse ###
 <p> 
