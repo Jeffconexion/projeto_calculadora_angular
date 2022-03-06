@@ -5,7 +5,7 @@
   Criação de uma calculadora em Angular,TypeScript e Bootstrap. 
 </p>
 
-### Camadas ###
+### Tópicos ###
 * 1 - Modulos, componentes e serviços.
 * 2 - Teste de unidade.
 * 3 - Documentar o código.
